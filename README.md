@@ -7,7 +7,7 @@
 - mysql2
 - sequelize
 
-## 使用
+## 测试
 
 - `node ./src/sync.js` 建表同步
 - `node ./src/create.js` 增
